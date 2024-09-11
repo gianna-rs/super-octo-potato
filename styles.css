@@ -1,5 +1,11 @@
 body {
     background-color: blue;
+
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
 }
 
 h1 {
@@ -9,5 +15,9 @@ h1 {
 
 p,
 ul {
-    color: yellow;
+    color: black;
+}
+
+div {
+    background-color: white;
 }
